@@ -8,7 +8,7 @@
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/Debug/ghidra-launcher.exe",
+            "program": "${workspaceFolder}/build/Release/ghidra-launcher.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
